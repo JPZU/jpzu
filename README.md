@@ -1,59 +1,36 @@
-```html
-<!DOCTYPE html>
-<html lang="es">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Juan Pablo's GitHub README</title>
-</head>
 
-<body>
+```markdown
+# Juan Pablo's GitHub README
 
-    <h1>Juan Pablo's GitHub README</h1>
+¡Hola! Soy Juan Pablo, estudiante de Ingeniería de Sistemas y Finanzas en la Universidad EAFIT. Bienvenido a mi espacio en GitHub, donde comparto mis proyectos y exploraciones en el mundo de la programación.
 
-    <p>¡Hola! Soy Juan Pablo, estudiante de Ingeniería de Sistemas y Finanzas en la Universidad EAFIT. Bienvenido a mi espacio en GitHub, donde comparto mis proyectos y exploraciones en el mundo de la programación.</p>
+## Sobre mí
 
-    <h2>Sobre mí</h2>
+- 👨‍🎓 Estudiante de Ingeniería de Sistemas y Finanzas en la Universidad EAFIT.
+- 💻 Conocimientos básicos en varios lenguajes de programación: Python, Java, JavaScript.
+- 📊 Algunos conocimientos en análisis de datos utilizando R Studio.
+- 🌱 Siempre aprendiendo y buscando nuevas oportunidades para crecer.
 
-    <ul>
-        <li>👨‍🎓 Estudiante de Ingeniería de Sistemas y Finanzas en la Universidad EAFIT.</li>
-        <li>💻 Conocimientos básicos en varios lenguajes de programación: Python, Java, JavaScript.</li>
-        <li>📊 Algunos conocimientos en análisis de datos utilizando R Studio.</li>
-        <li>🌱 Siempre aprendiendo y buscando nuevas oportunidades para crecer.</li>
-    </ul>
+## Habilidades
 
-    <h2>Habilidades</h2>
+- **Lenguajes de Programación:**
+  - Python
+  - Java
+  - JavaScript
 
-    <h3>Lenguajes de Programación:</h3>
-    <ul>
-        <li>Python</li>
-        <li>Java</li>
-        <li>JavaScript</li>
-    </ul>
+- **Análisis de Datos:**
+  - R Studio
 
-    <h3>Análisis de Datos:</h3>
-    <ul>
-        <li>R Studio</li>
-    </ul>
+- **Áreas de Interés:**
+  - Desarrollo de Software
+  - Finanzas
 
-    <h3>Áreas de Interés:</h3>
-    <ul>
-        <li>Desarrollo de Software</li>
-        <li>Finanzas</li>
-    </ul>
+## Contacto
 
-    <h2>Contacto</h2>
+¡Me encantaría conectarme contigo! Puedes encontrarme en:
 
-    <p>¡Me encantaría conectarme contigo! Puedes encontrarme en:</p>
+- juanpablozp@icloud.com
 
-    <ul>
-        <li><a href="juanpablozp@icloud.com">Correo Electrónico</a></li>
-    </ul>
-
-    <p>¡Gracias por visitar mi GitHub! Espero que encuentres interesantes mis proyectos. No dudes en explorar y dejarme tus comentarios. ¡Hagamos cosas increíbles juntos! 👨‍💻✨</p>
-
-</body>
-
-</html>
+¡Gracias por visitar mi GitHub! Espero que encuentres interesantes mis proyectos. No dudes en explorar y dejarme tus comentarios. ¡Hagamos cosas increíbles juntos! 👨‍💻✨
 ```
