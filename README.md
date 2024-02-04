@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Juan Pablo's GitHub README
 
 ¡Hola! Soy Juan Pablo, estudiante de Ingeniería de Sistemas y Finanzas en la Universidad EAFIT. Bienvenido a mi espacio en GitHub, donde comparto mis proyectos y exploraciones en el mundo de la programación.
@@ -33,4 +33,4 @@
 - juanpablozp@icloud.com
 
 ¡Gracias por visitar mi GitHub! Espero que encuentres interesantes mis proyectos. No dudes en explorar y dejarme tus comentarios. ¡Hagamos cosas increíbles juntos! 👨‍💻✨
-```
+
